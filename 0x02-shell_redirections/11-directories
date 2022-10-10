@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | head
+find iacta 1 -type d | wc -l
